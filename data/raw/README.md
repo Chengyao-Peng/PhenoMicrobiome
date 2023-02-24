@@ -1,2 +1,0 @@
-# Underlying data
-The raw microbiome data and metadata come from Difford, Gareth Frank, et al. [2018](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007580) and Wallace, R. John, et al.[2019](https://www.science.org/doi/10.1126/sciadv.aav8391).

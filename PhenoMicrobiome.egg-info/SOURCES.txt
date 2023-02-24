@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.cfg
-PhenoMicrobiome.egg-info/PKG-INFO
-PhenoMicrobiome.egg-info/SOURCES.txt
-PhenoMicrobiome.egg-info/dependency_links.txt
-PhenoMicrobiome.egg-info/requires.txt
-PhenoMicrobiome.egg-info/top_level.txt
